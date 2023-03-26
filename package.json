@@ -1,6 +1,6 @@
 {
-  "name": "@vacantwalker/read_env_file",
-  "version": "1.0.1",
+  "name": "@vacantthinker/read_env_file",
+  "version": "1.0.0",
   "main": "index.js",
   "description": " read env file",
   "scripts": {},

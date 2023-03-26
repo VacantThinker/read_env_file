@@ -10,7 +10,7 @@ BITBUCKET_APP_PASSWORD="abcdefg1234567"
 #### usage
 ```javascript
 let {BITBUCKET_USERNAME, BITBUCKET_APP_PASSWORD} 
-    = require('@vacantwalker/read_env_file').readEnvFile('env.sh');
+    = require('@vacantthinker/read_env_file').readEnvFile('env.sh');
 ```
 
 #### output
@@ -40,7 +40,7 @@ function readEnvFile(filename, logObj = false) {}
 
 ## how to install ?
 ```shell
-npm install @vacantwalker/read_env_file -D
+npm install @vacantthinker/read_env_file -D
 ```
 
 
