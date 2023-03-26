@@ -1,0 +1,17 @@
+{
+  "name": "@vacantwalker/read_env_file",
+  "version": "1.0.1",
+  "main": "index.js",
+  "description": " read env file",
+  "scripts": {},
+  "author": "vacantthinker",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VacantThinker/read_env_file.git"
+  },
+  "homepage": "https://github.com/VacantThinker/read_env_file",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VacantThinker/read_env_file/issues"
+  }
+}
